@@ -1,5 +1,7 @@
 # Interactive Particles
 
+![Interactive Particles Demo](./public/demonstration.png)
+
 A React component that converts images into interactive particle systems using WebGL. Particles respond to mouse movement and clicks with smooth animations and ripple effects.
 
 ## Features
@@ -7,7 +9,6 @@ A React component that converts images into interactive particle systems using W
 - Image-to-particle conversion with customizable threshold
 - Mouse interaction with touch trail effects
 - Click-triggered ripple animations
-- Hardware-accelerated WebGL rendering
 - Responsive and performant
 
 ## Installation
